@@ -1,0 +1,11 @@
+/Users/perturbedeagle/Documents/projects/udemy/ultimate_rust_crash_course/exercise/z_final_project/target/rls/debug/deps/gif-ea1c4a46792d4892.rmeta: /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/Users/perturbedeagle/Documents/projects/udemy/ultimate_rust_crash_course/exercise/z_final_project/target/rls/debug/deps/gif-ea1c4a46792d4892.d: /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs:
+/Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs:
+/Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs:
+/Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs:
+/Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs:
+/Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs:
+/Users/perturbedeagle/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs:
